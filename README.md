@@ -17,14 +17,14 @@ Folder Contains Final Deliverables
 
 This folder contains all scripts, data, and documentation used to clean, analyze, and model the data for this project. It is organized into three subfolders:
 
-data_cleaning/
-Contains the Python code used to merge and preprocess datasets from the U.S. Cancer Registry into a unified dataset. This step includes data cleaning, formatting, and preparation for analysis.
+    - data_cleaning/
+        Contains the Python code used to merge and preprocess datasets from the U.S. Cancer Registry into a unified dataset. This step includes data cleaning, formatting, and preparation for analysis.
 
-modeling/
-Includes Jupyter Notebook scripts for developing linear regression models as well as Tableau visualizations used in the final presentation. This section showcases both statistical and visual approaches to analyzing cancer trends.
+    - modeling/
+        Includes Jupyter Notebook scripts for developing linear regression models as well as Tableau visualizations used in the final presentation.
 
-final_dataset/
-Stores the finalized dataset used for modeling and presentation. This version reflects all preprocessing and is the basis for all analysis conducted in the project.
+    - final_dataset/
+        Stores the finalized dataset used for modeling and presentation. This version reflects all preprocessing and is the basis for all analysis conducted in the project.
 
 ### 3. Report
 
