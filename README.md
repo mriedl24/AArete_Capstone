@@ -2,9 +2,9 @@
 
 ## 📝 Overview
 
-    This project was developed as part of a capstone experience in partnership with AArete, focused on understanding cancer trends in Iowa. Our research explores the contributing factors behind the state’s rising cancer incidence rates—specifically in Breast Cancer, Prostate Cancer, Lung Cancer, and Melanoma of the Skin. Using publicly available health data, we examined risk factors as well as risky behaviors.
+This project was developed as part of a capstone experience in partnership with AArete, focused on understanding cancer trends in Iowa. Our research explores the contributing factors behind the state’s rising cancer incidence rates—specifically in Breast Cancer, Prostate Cancer, Lung Cancer, and Melanoma of the Skin. Using publicly available health data, we examined risk factors as well as risky behaviors.
 
-    Our goal was to uncover insights that explain Iowa’s deviation from national patterns and to develop predictive models that can inform more targeted public health strategies.
+Our goal was to uncover insights that explain Iowa’s deviation from national patterns and to develop predictive models that can inform more targeted public health strategies.
 
 ## 📁 Repository Structure
 
