@@ -17,7 +17,7 @@ Folder Contains Final Deliverables
 
 This folder contains all scripts, data, and documentation used to clean, analyze, and model the data for this project. It is organized into three subfolders:
 
-    - data_cleaning/
+    - data_processing/
         Contains the Python code used to merge and preprocess datasets from the U.S. Cancer Registry into a unified dataset. This step includes data cleaning, formatting, and preparation for analysis.
 
     - modeling/
