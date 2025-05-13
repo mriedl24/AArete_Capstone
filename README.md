@@ -1,42 +1,33 @@
-# AArete_Capstone Project - The State of Iowa Cancer Trends
+AArete_Capstone Project – The State of Iowa Cancer Trends
+📝 Overview
+This project was developed as part of a capstone experience in partnership with AArete, focused on understanding cancer trends in Iowa. Our research explores the contributing factors behind the state’s rising cancer incidence rates—specifically in Breast Cancer, Prostate Cancer, Lung Cancer, and Melanoma of the Skin. Using publicly available health data, we examined risk factors as well as risky behaviors.
 
-## Overview
+Our goal was to uncover insights that explain Iowa’s deviation from national patterns and to develop predictive models that can inform more targeted public health strategies.
 
-This project was developed as part of a capstone experience in partnership with AArete, focused on understanding cancer trends in Iowa. Our research explores the contributing factors behind the state’s rising cancer incidence rates specifically in Breast Cancer, Prostate Cancer, Lung Cancer and Melanoma of the Skin. Using publicly available health data, we examined risk factors as well as risky behaviors. Our goal was to uncover insights that explain Iowa’s deviation from national patterns and to develop predictive models that can inform more targeted public health strategies.
+📁 Repository Structure
+This repository is organized to reflect the full project lifecycle, from data acquisition and processing to final presentation materials.
 
-## Repository Structure
+Presentation/
+Contains our team’s final PowerPoint presentation delivered to AArete.
 
-### 1. Presentation
+Includes a one-slide poster summarizing the project’s key objectives, findings, and recommendations.
 
-Folder Contains Final Deliverables
+Report/
+Features a written executive summary outlining our research questions, methodology, and strategic takeaways.
 
-    - PowerPoint used in final presentation
-    - Poster Summarizing our project
+Includes a team takeaways slide that captures lessons learned from the project experience.
 
-### 2. Process
+data_cleaning/
+Includes Python scripts used to merge and preprocess datasets from the U.S. Cancer Registry and other sources.
 
-This folder contains all scripts, data, and documentation used to clean, analyze, and model the data for this project. It is organized into three subfolders:
+Shows how we constructed our final analytical dataset.
 
-    - data_processing/
-        Contains the Python code used to merge and preprocess datasets from the U.S. Cancer Registry into a unified dataset. This step includes data cleaning, formatting, and preparation for analysis.
+modeling/
+Contains Jupyter Notebooks and Tableau exports used to analyze cancer trends and create visualizations.
 
-    - modeling/
-        Includes Jupyter Notebook scripts for developing linear regression models as well as Tableau visualizations used in the final presentation.
+Covers exploratory data analysis, regression modeling, and geographic mapping.
 
-    - final_dataset/
-        Stores the finalized dataset used for modeling and presentation. This version reflects all preprocessing and is the basis for all analysis conducted in the project.
+final_dataset/
+Contains the cleaned master dataset used across modeling and visualization work.
 
-### 3. Report
-
-This section provides an executive summary of our analysis, highlighting:
-
-    🔍 Core research questions addressed
-    🧪 Data sources and analytical methods applied
-    💡 Key findings and trends identified
-    📈 Actionable recommendations for public health strategy
-
-### Executive Summary
-
-The executive summary, found in the report/ folder, provides a concise overview of the project’s purpose, key research questions, methodology, and the strategic implications of our findings. It serves as a high-level reference to quickly understand the goals and outcomes of the analysis.
-
-Thank you for reviewing our project! If you have any questions or are interested in building on this work, we’d love to hear from you.
+All content in this repository is structured for clarity, transparency, and reproducibility. If you have questions or would like to build on this work, we’d love to connect!
