@@ -8,34 +8,32 @@ Our goal was to uncover insights that explain Iowa’s deviation from national p
 
 ## 📁 Repository Structure
 
-    This repository is organized to reflect the full project lifecycle, from data acquisition and processing to final presentation materials.
+This repository is organized to reflect the full project lifecycle, from data acquisition and processing to final presentation materials.
 
 ### Presentation/
 
-    Contains our team’s final PowerPoint presentation delivered to AArete.
+Contains our team’s final PowerPoint presentation delivered to AArete.
 
-    Includes a one-slide poster summarizing the project’s key objectives, findings, and recommendations.
+Includes a one-slide poster summarizing the project’s key objectives, findings, and recommendations.
 
 ### Report/
 
-    Features a written executive summary outlining our research questions, methodology, and strategic takeaways.
+Features a written executive summary outlining our research questions, visuals, and strategic takeaways.
 
-    Includes a team takeaways slide that captures lessons learned from the project experience.
+Includes a team takeaways slide that captures lessons learned from the project experience.
 
 ### data_cleaning/
 
-    Includes Python scripts used to merge and preprocess datasets from the U.S. Cancer Registry and other sources.
+Includes Python scripts used to merge and preprocess datasets from the U.S. Cancer Registry and other sources.
 
-    Shows how we constructed our final analytical dataset.
+Shows how we constructed our final analytical dataset.
 
 ### modeling/
 
-    Contains Jupyter Notebooks and Tableau exports used to analyze cancer trends and create visualizations.
-
-    Covers exploratory data analysis, regression modeling, and geographic mapping.
+Contains Jupyter Notebooks and Tableau exports used to analyze cancer trends and create visualizations.
 
 ### final_dataset/
 
-    Contains the cleaned master dataset used across modeling and visualization work.
+Contains the cleaned master dataset used across modeling and visualization work.
 
 Thank you for viewing our project. If you have questions or would like to build on this work, we’d love to connect!
